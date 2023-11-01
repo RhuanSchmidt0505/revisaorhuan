@@ -1,11 +1,10 @@
 body{
     background-color: rgba(202, 194, 250, 0.705);
-    font-size: 20px;
+    font-size: 40px;
 }
 
 img{
     width: 25%;
     display: block;
     margin: auto;
-    color: aquamarine;
 }
